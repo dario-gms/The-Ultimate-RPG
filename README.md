@@ -2,7 +2,7 @@
 
 **Game Design Document & Technical Specification**
 
-## 📋 Executive Summary
+## Executive Summary
 
 **The Eternal Throne** is an ambitious narrative-driven RPG that seamlessly integrates personal storytelling, political simulation, and systems-driven gameplay. Players navigate interconnected decision trees where personal relationships, political power, and moral choices permanently reshape the game world.
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 Documentation Structure
+## Documentation Structure
 
 This project consists of the following documentation files:
 
@@ -29,7 +29,7 @@ This project consists of the following documentation files:
 
 ---
 
-## 🎮 Core Pillars
+## Core Pillars
 
 ### 1. **Cinematic Narrative** (Baldur's Gate 3 inspiration)
 - Character-driven storytelling with branching narratives
@@ -57,7 +57,7 @@ This project consists of the following documentation files:
 
 ---
 
-## 🔄 Game Loops
+## Game Loops
 
 ### Personal Loop
 ```
@@ -76,7 +76,7 @@ Player Action → World State Change → NPC Reaction → New Opportunity/Confli
 
 ---
 
-## 🔗 The Integrated Consequence System
+## The Integrated Consequence System
 
 Every action impacts multiple dimensions simultaneously:
 
@@ -89,7 +89,7 @@ Every action impacts multiple dimensions simultaneously:
 
 ---
 
-## ⚖️ Non-Binary Morality System
+## Non-Binary Morality System
 
 The game uses **four ethical axes** rather than good/evil:
 
@@ -102,7 +102,7 @@ NPCs respond based on alignment with these axes, creating nuanced relationships.
 
 ---
 
-## 🎯 Target Audience
+## Target Audience
 
 - Story-driven RPG fans (BG3, Dragon Age, Witcher 3)
 - Political simulation enthusiasts (Crusader Kings, Paradox games)
@@ -111,7 +111,7 @@ NPCs respond based on alignment with these axes, creating nuanced relationships.
 
 ---
 
-## 📊 Technical Scope
+## Technical Scope
 
 This project requires:
 
@@ -123,7 +123,7 @@ This project requires:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 To understand this project in detail, start with:
 
@@ -134,7 +134,7 @@ To understand this project in detail, start with:
 
 ---
 
-## 📝 Design Philosophy
+## Design Philosophy
 
 This project prioritizes:
 
@@ -146,13 +146,13 @@ This project prioritizes:
 
 ---
 
-## 📄 License
+## License
 
 These documents are available for use as reference material for game development projects.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 This is a design reference document. Feedback and improvements to the documentation are welcome.
 
