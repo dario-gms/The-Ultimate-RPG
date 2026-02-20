@@ -216,7 +216,6 @@ If you're interested in discussing game design, RPG systems, or just want to tal
 
 **Reach out:**
 - GitHub: [dariogms](https://github.com/dariogms)
-- Discord: Kind or dariogms
 - Email: [Contact through profile]
 
 ---
