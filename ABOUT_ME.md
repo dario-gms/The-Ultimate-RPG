@@ -13,26 +13,76 @@ I'm Dário, a software engineering student with an unbridled passion for RPGs an
 
 ## My Current Work
 
-### Raven Forsaken World - MMORPG Lead Developer
+### Raven Forsaken World - Full-Stack Developer & Infrastructure Engineer
 
-For the past **3 years**, I've been the sole developer and maintainer of **Raven Forsaken World**, an MMORPG that was already feature-complete when I took it over. What started as a passion project has evolved into my primary focus in game development.
+For the past **3 years**, I've been the sole developer, maintainer, and infrastructure engineer of **Raven Forsaken World**, an MMORPG that was already feature-complete when I took it over. What started as a passion project has evolved into my primary focus, covering everything from game development to cloud infrastructure and DevOps.
 
-#### My Responsibilities:
+#### Game Development
 
-**Game Development**
 - Implementing game updates and new features
 - Designing and executing in-game events
 - Bug fixing and performance optimization
 - Quality of life improvements and system refinements
 - Balancing game mechanics and progression systems
 
-**Community Management**
+#### Infrastructure & DevOps
+
+**Cloud Hosting & Management**
+- Full cloud infrastructure maintenance and management
+- Virtual machine configuration and optimization
+- Deployment strategies and automation
+- Server monitoring and health checks
+- Cost optimization and resource allocation
+
+**Security & Networking**
+- Firewall rule configuration and management
+- Cloudflare integration and DNS management
+- SSL/TLS certificate management
+- DDoS protection implementation
+- Network security best practices
+- Access control and permission management
+
+**Linux Operations (CentOS 7)**
+- Complete Linux system administration
+- Server deployment and configuration
+- Process management and optimization
+- Package management and system updates
+- Shell scripting for automation
+- System performance tuning
+- Log management and troubleshooting
+
+**Database & Backup Systems**
+- Database design and optimization
+- Backup strategy implementation and execution
+- Automated backup routines and scheduling
+- Data recovery procedures
+- Database maintenance and optimization
+- Disaster recovery planning
+
+#### Game Launcher & Authentication
+
+**Custom Game Launcher Development**
+- Built and maintained a proprietary game launcher from scratch
+- Client update distribution system
+- Version control and rollback capabilities
+- Seamless user experience from download to gameplay
+
+**Authentication System**
+- Implemented secure user registration and login
+- Password recovery system with email verification
+- Secure token generation and validation
+- Email integration for password reset codes
+- Account security measures and best practices
+
+#### Community Management
+
 - Active Discord server moderation as GM
 - Direct player communication and support
 - Gathering and implementing player feedback
 - Building and maintaining an engaged community
 
-**Web Development & Design**
+#### Web Development & Design
+
 - Website maintenance and improvements
 - UI/UX design and implementation
 - Feature implementation for web presence
@@ -40,7 +90,7 @@ For the past **3 years**, I've been the sole developer and maintainer of **Raven
 
 #### The Philosophy Behind My Work
 
-I didn't create Raven Forsaken World from scratch—it was already a complete game when I inherited it. But I've spent three years transforming it into **the experience I would want to play**. Every update, event, and improvement is driven by a simple question: *"Would I enjoy this as a player?"*
+I didn't create Forsaken World from scratch—it was already a complete game when I inherited it and created my version, Raven Forsaken World. But I've spent three years transforming it into **the experience I would want to play**. Every update, event, and improvement is driven by a simple question: *"Would I enjoy this as a player?"*
 
 This means:
 - Respecting player time investment
@@ -48,6 +98,38 @@ This means:
 - Designing events that tell stories, not just grind content
 - Building a community where players feel heard
 - Continuously improving the experience based on feedback
+- Ensuring the infrastructure is secure, stable, and performant
+
+#### Technical Skills Acquired
+
+Through managing Raven Forsaken World as a complete operation, I've developed expertise in:
+
+**Backend & Infrastructure**
+- Cloud infrastructure as code concepts
+- Server architecture and scalability
+- DevOps practices and automation
+- System administration and monitoring
+- Performance optimization at scale
+
+**Database Management**
+- SQL optimization for game data
+- Backup and recovery strategies
+- Data migration and synchronization
+- Database clustering and replication
+
+**Security**
+- Application security best practices
+- Infrastructure security hardening
+- Secure authentication and authorization
+- Incident response and monitoring
+- Compliance and audit requirements
+
+**Operations & Reliability**
+- 24/7 uptime responsibility and monitoring
+- Incident response and troubleshooting
+- Capacity planning and resource optimization
+- Change management and deployment strategies
+- Documentation and runbooks for critical procedures
 
 ---
 
@@ -116,11 +198,15 @@ If you're working on a game that values **emergent gameplay**, **meaningful cons
 
 While games are my passion, I'm also genuinely interested in:
 - **Software architecture** and system design
+- **DevOps and Infrastructure** - Cloud platforms, CI/CD, infrastructure as code
+- **Linux system administration** and automation
+- **Database systems** and optimization
 - **Artificial intelligence** and decision-making systems
 - **Game economy systems** and balance
 - **Community building** and player psychology
+- **Security engineering** and best practices
 
-I believe these interests will make me a better game developer whenever I do pursue it full-time.
+I believe these interests will make me a better game developer whenever I do pursue it full-time, and they also position me well for roles in platform engineering, infrastructure engineering, or full-stack development in the gaming industry.
 
 ---
 
